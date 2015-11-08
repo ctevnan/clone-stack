@@ -1,0 +1,19 @@
+body {
+     font-family:Veranda;
+     font-size:20px;
+     font-color:black;
+     background-color: lightblue;
+}
+header, nav, section, article {
+	border: 8px solid gray;
+	margin: 8px;
+	padding: 9px;
+}
+nav ul {
+	margin:0;
+	padding:0;
+}
+nav ul li {
+	display: inline;
+	margin: 20px;
+}
